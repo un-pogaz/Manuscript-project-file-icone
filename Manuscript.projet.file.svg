@@ -17,7 +17,7 @@
    version="1.1"
    y="0px"
    x="0px"
-   sodipodi:docname="Manuscript projet file.svg"
+   sodipodi:docname="Manuscript.projet.file.svg"
    width="512"
    height="512"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><defs
@@ -47,13 +47,13 @@
      id="namedview3081"
      showgrid="false"
      units="px"
-     inkscape:zoom="1.1291596"
-     inkscape:cx="104.65168"
-     inkscape:cy="242.0507"
+     inkscape:zoom="0.79843641"
+     inkscape:cx="83.042132"
+     inkscape:cy="115.97078"
      inkscape:window-x="1352"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g895"
+     inkscape:current-layer="Layer_2"
      inkscape:pagecheckerboard="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -116,7 +116,7 @@
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata><g
      id="g892"
      inkscape:label="Manuskript logo file"
-     transform="matrix(0.36682512,0,0,0.36682512,121.2286,50.066442)"><use
+     transform="matrix(0.36618347,0,0,0.36618347,121.1127,51.007724)"><use
        x="0"
        y="0"
        xlink:href="#g895"
@@ -154,13 +154,13 @@
        transform="translate(43.16217,36.217361)" /><g
        id="g895"
        inkscape:label="paper"
-       transform="matrix(1.0687631,0,0,1.0687631,1452.2208,-54.041121)"><rect
+       transform="matrix(1.0659836,0,0,1.0659836,1447.9742,-54.262843)"><rect
          y="-70.140327"
          x="-1518.165"
          height="1122.5228"
          width="793.703"
          id="rect843"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:14.00004005;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:19.25778961;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="A4" /><flowRoot
          xml:space="preserve"
          id="flowRoot957"
@@ -178,9 +178,7 @@
            id="flowPara963">Manuskript lorem ipsum dolor sit amet, consectetur adipiscing elit.</flowPara><flowPara
            id="flowPara877">Sed non risus.</flowPara><flowPara
            id="flowPara971">Suspendisse lectus ate tortor, dignissim samet. adipiscingne.</flowPara></flowRoot><g
-         aria-label="Manuskript lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Sed non risus.
-Suspendisse lectus ate tortor, dignissim samet. "
+         aria-label="Manuskript lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus ate tortor, dignissim samet. "
          transform="translate(462.47107,181.39007)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110px;line-height:120.00000477%;font-family:Z003;-inkscape-font-specification:Z003;text-indent:1em;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot869"
